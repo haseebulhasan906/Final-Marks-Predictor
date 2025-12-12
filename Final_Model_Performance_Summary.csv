@@ -1,0 +1,10 @@
+Exam,Model,MAE,RMSE,R²,95% CI MAE
+Midterm I,Dummy (Mean),1.938,2.446,-0.013,"[1.86, 2.44]"
+Midterm I,Multiple Linear,1.612,1.97,0.343,"[1.55, 2.11]"
+Midterm I,Polynomial (deg=2),1.593,2.054,0.286,"[1.55, 2.13]"
+Midterm II,Dummy (Mean),2.606,3.236,-0.012,"[2.48, 3.10]"
+Midterm II,Multiple Linear,1.552,1.88,0.658,"[1.65, 2.22]"
+Midterm II,Polynomial (deg=2),3.374,5.336,-1.752,"[1.67, 2.22]"
+Final Exam,Dummy (Mean),7.615,9.124,-0.015,"[6.18, 8.13]"
+Final Exam,Multiple Linear,3.991,4.746,0.725,"[2.97, 4.04]"
+Final Exam,Polynomial (deg=2),84.321,153.416,-286.112,"[2.95, 4.06]"
